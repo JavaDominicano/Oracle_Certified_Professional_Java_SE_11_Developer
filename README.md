@@ -23,5 +23,5 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
 # Recursos
 ## Enlaces:
 
-# Libros
-
+## Libros
+* [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819 and Upgrade Exam 1Z0-817](https://www.amazon.com/dp/1119696135/ref=cm_sw_em_r_mt_dp_52WXKSAGXCVNTB5JH7Y8)
