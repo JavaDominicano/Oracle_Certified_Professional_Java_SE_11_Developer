@@ -19,6 +19,14 @@ Nuestra guía de estudio son los cursos oficiales de Oracle:
 
 Si todavía no te has registrado, aprovecha esta excelente oportunidad social.ora.cl/6019HYM79
 
+## Canal de Gitter
+[https://gitter.im/JavaDominicano/Oracle_Certified_Professional_Java_SE_11_Developer](https://gitter.im/JavaDominicano/Oracle_Certified_Professional_Java_SE_11_Developer)
+
+
+# Requisitos:
+
+* Open JDK 11 o superior.
+* El IDE de su preferencia.
 
 # Recursos
 ## Enlaces:
@@ -28,3 +36,13 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
 
 ## Libros
 * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819 and Upgrade Exam 1Z0-817](https://www.amazon.com/dp/1119696135/ref=cm_sw_em_r_mt_dp_52WXKSAGXCVNTB5JH7Y8)
+
+
+
+# Agradecimientos
+
+- [Eudris Cabrera](https://twitter.com/eudriscabrera)
+- [Eugenio Duran](https://twitter.com/eugh_x)
+- [Eliezar Herrera](https://github.com/zerh)
+
+Miembros del Grupo de Usuarios y Desarrolladores Java de República Dominicana [JavaDominicano](https://twitter.com/JavaDominicano)
