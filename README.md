@@ -36,6 +36,7 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
 
 ## Libros
 * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819 and Upgrade Exam 1Z0-817](https://www.amazon.com/dp/1119696135/ref=cm_sw_em_r_mt_dp_52WXKSAGXCVNTB5JH7Y8)
+* [OCP Oracle Certified Professional Java SE 11 Developer Complete Study Guide: Exam 1Z0-815, Exam 1Z0-816, and Exam 1Z0-817](https://www.amazon.com/-/es/Jeanne-Boyarsky-ebook/dp/B08DF4R2V9/ref=sr_1_2?__mk_es_US=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=35TMIKDG2NMVB&dchild=1&keywords=java+11+certification&qid=1615150089&sprefix=Java+11+cer%2Caps%2C-1&sr=8-2)
 
 
 
