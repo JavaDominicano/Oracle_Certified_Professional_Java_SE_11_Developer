@@ -28,6 +28,19 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
 * Open JDK 11 o superior.
 * El IDE de su preferencia.
 
+# Sesiones
+
+## Sesión I:
+> Fecha: Jueves 11 de Marzo de 2021
+> Hora: 7:15 - 8:45 P.M
+
+  Temas a Tratar:
+  ------
+  * 1- Introduction to Java
+  * 2- Primitive Types, Operators, and Flow Control Statements
+  * 3- Text, Date, Time and Numeric Objects
+  * 4- Classes and Objects
+
 # Recursos
 ## Enlaces:
 * [Oracle Certified Professional: Java SE 11 Developer Certification Overview](https://education.oracle.com/products/trackp_OCPJAV11)
