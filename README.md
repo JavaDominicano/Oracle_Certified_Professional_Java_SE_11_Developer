@@ -41,6 +41,8 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
   * 3- Text, Date, Time and Numeric Objects
   * 4- Classes and Objects
 
+ [Unirte a nosotros](https://meet.google.com/njg-fgmj-zqf)
+
 # Recursos
 ## Enlaces:
 * [Oracle Certified Professional: Java SE 11 Developer Certification Overview](https://education.oracle.com/products/trackp_OCPJAV11)
