@@ -48,6 +48,14 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
 * [Oracle Certified Professional: Java SE 11 Developer Certification Overview](https://education.oracle.com/products/trackp_OCPJAV11)
 * [Certification Exams Java SE 11 Developer Exam Number: 1Z0-819 Limited Edition Only - Ends April 25, 2021. Book your $245 $25 Exam Now!](https://education.oracle.com/java-se-11-developer/pexam_1Z0-819)
 * [https://education.oracle.com/5278_Java11-Programmer_Study-Guide_V1_E94B.pdf](https://education.oracle.com/5278_Java11-Programmer_Study-Guide_V1_E94B.pdf)
+* [The 1Z0-819 Exam](https://www.selikoff.net/ocp11-819)
+* [Foro de CodeRanch para PROGRAMMER CERTIFICATION (OCPJP)](https://coderanch.com/f/24/java-programmer-OCPJP)
+* [OCP Java 11 - 1Z0-819 Mock Exams Practice Tests/Questions](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-11-exam-1z0-819)
+
+## Otros Enlaces:
+* [https://devgym.oracle.com/pls/apex/dg/competition/java](https://devgym.oracle.com/pls/apex/dg/competition/java)
+* [https://nobugsproject.com](https://nobugsproject.com)
+* [https://www.selikoff.net](https://www.selikoff.net)
 
 ## Libros
 * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819 and Upgrade Exam 1Z0-817](https://www.amazon.com/dp/1119696135/ref=cm_sw_em_r_mt_dp_52WXKSAGXCVNTB5JH7Y8)
