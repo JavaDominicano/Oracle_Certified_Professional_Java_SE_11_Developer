@@ -42,6 +42,21 @@ Si todavía no te has registrado, aprovecha esta excelente oportunidad social.or
   * 4- Classes and Objects
 
  [Unirte a nosotros](https://meet.google.com/njg-fgmj-zqf)
+ 
+ ## Sesión II:
+ > Jueves 18:
+ > 7:15-8:45 P.M
+
+Temas a tratar
+--------
+* 1- Introduction to Java
+* 2- Primitive Types, Operators, and Flow Control Statements
+* 3- Text, Date, Time and Numeric Objects
+* 4- Classes and Objects
+* 5- Improved Class Design
+
+Reserva la fecha
+[Unirte a nosotros](https://meet.google.com/jub-vwvk-iox)
 
 # Recursos
 ## Enlaces:
