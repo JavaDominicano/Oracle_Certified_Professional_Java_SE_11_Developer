@@ -66,11 +66,15 @@ Reserva la fecha
 * [The 1Z0-819 Exam](https://www.selikoff.net/ocp11-819)
 * [Foro de CodeRanch para PROGRAMMER CERTIFICATION (OCPJP)](https://coderanch.com/f/24/java-programmer-OCPJP)
 * [OCP Java 11 - 1Z0-819 Mock Exams Practice Tests/Questions](https://enthuware.com/java-certification-mock-exams/oracle-certified-professional/ocp-java-11-exam-1z0-819)
+* [Quiz yourself: Say “hello” to the 1Z0-819 Java SE 11 certification exam](https://blogs.oracle.com/javamagazine/quiz-yourself-say-hello-to-the-1z0-819-java-se-11-certification-exam)
+* [How to prepare for Java SE 11 Developer 1Z0-819 exam?](https://thinkassess.com/java/how-to-prepare-for-java-se-11-developer-1z0-819-exam/)
+* [Java 11 certification tips and thoughts](https://www.linkedin.com/pulse/java-11-certification-tips-thoughts-anton-balaniuc)
 
 ## Otros Enlaces:
 * [https://devgym.oracle.com/pls/apex/dg/competition/java](https://devgym.oracle.com/pls/apex/dg/competition/java)
 * [https://nobugsproject.com](https://nobugsproject.com)
 * [https://www.selikoff.net](https://www.selikoff.net)
+
 
 ## Libros
 * [OCP Oracle Certified Professional Java SE 11 Developer Practice Tests: Exam 1Z0-819 and Upgrade Exam 1Z0-817](https://www.amazon.com/dp/1119696135/ref=cm_sw_em_r_mt_dp_52WXKSAGXCVNTB5JH7Y8)
