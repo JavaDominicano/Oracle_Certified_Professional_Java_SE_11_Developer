@@ -58,6 +58,15 @@ Temas a tratar
 Reserva la fecha
 [Unirte a nosotros](https://meet.google.com/jub-vwvk-iox)
 
+ ## Sesión III:
+ Sábado 10 Abril de 2021:
+ > 3:30-4:30 P.M
+
+Reserva la fecha
+[Unirte a nosotros](https://meet.google.com/hsi-wmfx-okm)
+
+
+
 # Recursos
 ## Enlaces:
 * [Oracle Certified Professional: Java SE 11 Developer Certification Overview](https://education.oracle.com/products/trackp_OCPJAV11)
